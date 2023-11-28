@@ -1,4 +1,4 @@
-package cn.yanzy;
+package cn.yanzy.decorator_demo;
 
 import cn.yanzy.decorator_demo.component.Coffee;
 import cn.yanzy.decorator_demo.decorator.Milk;
